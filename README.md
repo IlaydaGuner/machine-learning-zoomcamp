@@ -1,1 +1,1 @@
-# machine-lea-rning-zoomcamp
+# machine-learning-zoomcamp
